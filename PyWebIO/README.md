@@ -22,7 +22,7 @@ Installation
 
 Stable version::
 
-   pip3 install -U pywebio
+    pip3 install -U pywebio
 
 Development version::
 
