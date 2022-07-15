@@ -21,10 +21,9 @@ https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
 pip install yfinance
 ```
 
-To run the app1.py & app2.py code, Open a terminal 
+To run the app1.py code, Open a terminal 
 ```script
 conda activate (virtualenv Python environments)
 cd (Folder Location code)
 streamlit run app1.py
-streamlit run app2.py
 ```
